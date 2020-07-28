@@ -1,0 +1,21 @@
+[{"ID":"f19a371d-3b70-4d73-b83c-01a8a766eb4b","TextMessage":"Behyar","TimeSentOfDevice":"1399-03-
+22T16:27:02","Type":null,"Ward":"CCU","PersianWard":"یو سی سی","ActivityTextPersian":null,"ReceivedGatewa
+ys":"192.168.111.182,192.168.111.182,192.168.111.182","SendedGateways":"192.168.111.182","ReceiveSentAckGateway
+s":"192.168.111.182,192.168.111.182,192.168.111.182,192.168.111.182,192.168.111.182,192.168.111.182,192.168.111.182,1
+92.168.111.182","ReceivedPagers":null,"SeenPagers":null,"Arrived":null,"LCDPosition":null},{"ID":"7ef157d4-
+9b5a-45a7-9bba-01e1bd32b73a","TextMessage":"Behyar","TimeSentOfDevice":"1399-03-
+22T15:53:37","Type":null,"Ward":"CCU","PersianWard":"یو سی سی","ActivityTextPersian":null,"ReceivedGatewa
+ys":"192.168.111.182","SendedGateways":"192.168.111.182","ReceiveSentAckGateways":"192.168.111.182","Receiv
+edPagers":null,"SeenPagers":null,"Arrived":null,"LCDPosition":null},{"ID":"cb8deb30-42fe-459a-91b6-
+01ce480af229","TextMessage":"Behyar","TimeSentOfDevice":"1399-03-
+22T15:20:44","Type":null,"Ward":"CCU","PersianWard":"یو سی سی","ActivityTextPersian":null,"ReceivedGatewa
+ys":"192.168.111.182","SendedGateways":"192.168.111.182","ReceiveSentAckGateways":"192.168.111.182","Receiv
+edPagers":null,"SeenPagers":null,"Arrived":null,"LCDPosition":null},{"ID":"8ff88683-d99d-4523-92a8-
+021a4b35953b","TextMessage":"Behyar","TimeSentOfDevice":"1399-03-
+22T14:56:23","Type":null,"Ward":"CCU","PersianWard":"یو سی سی","ActivityTextPersian":null,"ReceivedGatewa
+ys":"192.168.111.182","SendedGateways":"192.168.111.182","ReceiveSentAckGateways":"192.168.111.182","Receiv
+edPagers":"محمدخانی","SeenPagers":"محمدخانی","Arrived":"محمدخانی","LCDPosition":null},{"ID":"06a9afa8-
+a6a3-4341-89d5-01f07aa1cfcb","TextMessage":"Guard","TimeSentOfDevice":"1399-03-
+22T07:11:44","Type":"Website","Ward":"CCU","PersianWard":"یو سی سی","ActivityTextPersian":"نگهبانی","
+ReceivedGateways":null,"SendedGateways":null,"ReceiveSentAckGateways":null,"ReceivedPagers":null,"SeenPagers":
+null,"Arrived":null,"LCDPosition":null}]
